@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'pogi',  # Add your app here
+    'rest_framework',
+     'pogi',  # Add your app here
 ]
 
 MIDDLEWARE = [
